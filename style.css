@@ -1,0 +1,29 @@
+body{
+    background-color:  #00539f;;
+}
+h1 {
+    color: red;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+}
+
+p{
+    color: darkcyan;
+    font-family: "Open Sans",sans-serif;
+    text-align: center;
+}
+
+li{
+    color: aquamarine;
+    list-style-type: none;
+    font-family: "Open Sans",sans-serif;
+    text-align: center;
+}
+
+.special{
+    color: orange;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: "Open Sans",sans-serif;
+    text-align: center;
+}
